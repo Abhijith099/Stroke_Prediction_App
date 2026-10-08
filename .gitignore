@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Node modules (for React)
+node_modules/
+
+# Environment variables & system files
+.env
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
